@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RestApi</string>
+    <string name="produk">Produk</string>
+    <string name="nama">Nama</string>
+    <string name="merk">Merk</string>
+    <string name="harga_satuan">Harga Satuan</string>
+    <string name="tanggal_transaksi">Tanggal Transaksi</string>
+    <string name="simpan">simpan</string>
+    <string name="tipe">Tipe</string>
+</resources>
